@@ -168,9 +168,14 @@ input[type="text"] {
     1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
 }
 
-span > a {
-  text-decoration: inherit;
+span > a,
+a:hover,
+a:visited,
+a:active {
   color: lime;
+  text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black,
+    1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+  text-decoration: none;
 }
 
 */ h1 {
