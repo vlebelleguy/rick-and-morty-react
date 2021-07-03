@@ -11,8 +11,6 @@
 <img src="https://img.shields.io/badge/-HTML5-97ce4c?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-97ce4c?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/-Netlify-97ce4c?style=for-the-badge&logo=Netlify&logoColor=white">
-<h3>📝 <ins>Tasks</ins> 📝</h3>
-<li> </li>
 <h3>🛠️ <ins>Installation</ins> 🛠️</h3>
 <p>Be sure, you have installed all dependencies to run the project.</p>
 <h4>Clone The Repository</h4>
