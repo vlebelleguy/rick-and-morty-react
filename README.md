@@ -2,7 +2,7 @@
 <samp>
 <img src="https://i.ibb.co/4g5d98d/rick-and-morty-logo.png">
 <h1>Rick and Morty - React</h1>
-<img src="https://i.ibb.co/b5c4djC/rick-and-morty-screenshot.png">
+<img src="https://i.ibb.co/w0Dq1SK/rick-and-morty-mockup.png">
 <h3>👽 <ins>About This Project</ins> 👽</h3>
 <p>Website to browse through Rick and Morty's characters made with React.</p>
 <h3>📚 <ins>Stacks</ins> 📚</h3>
